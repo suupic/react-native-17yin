@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "react-native-17yin@^1.0.1",
+      "/Users/xuyannan/workspace/yin17BdApp"
+    ]
+  ],
+  "_from": "react-native-17yin@>=1.0.1 <2.0.0",
+  "_id": "react-native-17yin@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-17yin",
+  "_nodeVersion": "4.2.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-17yin-1.0.1.tgz_1460609778732_0.9958564948756248"
+  },
+  "_npmUser": {
+    "email": "xyn0563@gmail.com",
+    "name": "xyn0563"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-17yin",
+    "raw": "react-native-17yin@^1.0.1",
+    "rawSpec": "^1.0.1",
+    "scope": null,
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_shasum": "ad7ba7c45617e7c14fc0d77640847465e84234e6",
+  "_shrinkwrap": null,
+  "_spec": "react-native-17yin@^1.0.1",
+  "_where": "/Users/xuyannan/workspace/yin17BdApp",
+  "author": {
+    "name": "xuyannan"
+  },
+  "bugs": {
+    "url": "https://github.com/xuyannan/react-native-17yin/issues"
+  },
+  "dependencies": {},
+  "description": "react native components for 17yin apps",
+  "devDependencies": {
+    "react-native": "^0.20.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ad7ba7c45617e7c14fc0d77640847465e84234e6",
+    "tarball": "https://registry.npmjs.org/react-native-17yin/-/react-native-17yin-1.0.1.tgz"
+  },
+  "homepage": "https://github.com/xuyannan/react-native-17yin#readme",
+  "keywords": [
+    "17yin",
+    "native",
+    "react"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "xyn0563",
+      "email": "xyn0563@gmail.com"
+    }
+  ],
+  "name": "react-native-17yin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xuyannan/react-native-17yin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
